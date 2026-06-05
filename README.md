@@ -1,5 +1,6 @@
 <div align="center">
-   <img src="icon.gif" width="450" alt="wide-2" />
+   <img width="256" height="256" alt="favicon" src="https://github.com/user-attachments/assets/47027801-38bc-44fd-9799-4b40587591e3" />
+
 </div>
 
 # 🪄 دانلود از یوتیوب با نت ملی ( نسخه ۴ )
